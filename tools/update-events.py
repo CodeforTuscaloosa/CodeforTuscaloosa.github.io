@@ -15,8 +15,7 @@ import sys
 
 num_events = 5
 
-api_call = 'https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_urlname=Code-for-Birmingham-AL&page=200&fields=&order=time&desc=false&status=upcoming&sig_id=20151101&sig=9c9a5e8fdc788a93117b4a5208d66c54b586ddb2'
-
+api_call = 'https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_urlname=Code-for-Tuscaloosa&page=200&fields=&order=time&desc=false&status=upcoming&sig_id=142197972&sig=30469a8bbe49fb53a9dacdfe8f9f6485a047a9d2a'
 script_path = os.path.dirname(os.path.realpath(__file__))
 include_path = os.path.dirname(script_path) + '/_includes/upcoming.html'
 
