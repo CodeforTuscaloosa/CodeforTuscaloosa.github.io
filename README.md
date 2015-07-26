@@ -1,10 +1,6 @@
-Code for Birmingham Website
+Code for Tuscaloosa Website
 ===========================
 
-Website for Code for Birmingham, powered by [Jekyll](http://jekyllrb.com/).
+Website for Code for Tuscaloosa, powered by [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/).
 
 
-Analytics
----------
-
-See our Google Analytics stats on our [SeeTheStats profile](http://www.seethestats.com/site/codeforbirmingham.org).

@@ -15,7 +15,7 @@ active: forum
 
 <script type="text/javascript">
  document.getElementById("forum_embed").src =
-  "https://groups.google.com/forum/embed/?place=forum/codeforbirmingham" +
+  "https://groups.google.com/forum/embed/?place=forum/code-for-tuscaloosa" +
   "&showsearch=true&showpopout=true&parenturl=" +
   encodeURIComponent(window.location.href);
 </script> 

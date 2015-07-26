@@ -1,6 +1,6 @@
-name: Code for Birmingham
-description: Code for Birmingham Blog
-url: http://www.codeforbirmingham.org
+name: Code for Tuscaloosa
+description: Code for Tuscaloosa Website
+url: http://www.codefortuscaloosa.org
 permalink: /blog/:categories/:year/:month/:day/:title.html
 exclude: [tools]
 gems:

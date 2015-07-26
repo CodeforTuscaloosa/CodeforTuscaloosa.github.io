@@ -8,21 +8,18 @@ active: home
 A Code for America Brigade
 --------------------------
 
-… based in Birmingham, AL. AKA, The Magic City.
-
-<img class="center" src="/img/codeforbirmingham-vulcan.png" alt="Digital Vulcan">
+… based in Tuscaloosa, AL. AKA, The Druid City.
 
 
-We're Bringing Magic Back
--------------------------
+Mission Statement
+-----------------
 
-… through civic hacking. We aim to strengthen the community and government of Birmingham by volunteering to organize, develop, and deploy civic technology. This is accomplished by laying down a foundation for open data. At this point, our primary goal is to create an open data policy in Birmingham. This will enable public data to be easily accessible and machine readable. This is the bread and butter that enables us to make our magic. Open data will create a ripple effect than enables us and the rest of Birmingham to reach our full potential. We can use open data to create all sorts of civic apps. We can consolidate bus routes, enable civic engagement in politics, deploy real-time interactive screens throughout the city, use zoning information to adopt and clean up empty lots, and provide logistical and user friendly data to the other non-profits in Birmingham who focus on improving specific areas such as education and housing. We know there is a lot of optimism, and a lot of eager hands willing to make meaningful changes in this city. We share this goal, and aim to focus all of that optimism and all of those hands towards perceivable goals. With open data, the sky is the limit. An inch of open data enables a mile of progress.
-
+We aim to better the Tuscaloosa community by developing open source civic apps that make public data more accessible and useful. We believe in the power of [open data](https://okfn.org/opendata/) to make governments more transparent, engaging, and effective. Therefore we need to develop and implement an open data policy in Tuscaloosa. However we don't have to wait for that to start civic hacking&mdash; there are redeployable projects from other cities and potential projects not directly dependent on government-provided data.
 
 We Want You
 -----------
 
-… yes, you. Anyone who is eager to make real positive changes at a local, state, or even national level, is someone we want in Code for Birmingham. We are not a team of techies, we are a brigade of civilians. We’re eager to bring in anybody who values the ethic responsibilities of being a citizen. Some of us are programmers, some of us are designers, but all of us are citizens. There is plenty of meaningful work to be done for techies, and non-techies alike.
+… yes, you. Anyone who is eager to make real positive changes at a local, state, or even national level, is someone we want in Code for Tuscaloosa. We are not a team of techies, we are a brigade of civilians. We’re eager to bring in anybody who values the ethic responsibilities of being a citizen. Some of us are programmers, some of us are designers, but all of us are citizens. There is plenty of meaningful work to be done for techies, and non-techies alike.
 
 
 We Work like Democracy. We Work Like the Internet.
@@ -34,24 +31,7 @@ We think that hierarchy is a bad model for the type of work we do. We have a tea
 Core Team Members
 -----------------
 
-- Captain: <a href="mailto:tait.wayland@codeforbirmingham.org">Tait Wayland</a>
-- Co-Captain: <a href="mailto:marcus.dillavou@codeforbirmingham.org">Marcus Dillavou</a>
-- Delivery Lead: David Grieser
-- Delivery Lead: Matthew Leeds
-- Storyteller: Joseph Casper Baker III
-- Data Wrangler: <a href="mailto:alexander.grueneberg@codeforbirmingham.org">Alexander Grüneberg</a>
-- Community Organizer: Deon Gordon
-- Community Organizer: Erika Bazo
-- Community Organizer: <a href="mailto:scott.wehby@codeforbirmingham.org">Scott Wehby</a>
+- Captain: <a href="mailto:mwl458@gmail.com">Matthew Leeds</a>
+- Delivery Lead: <a href="mailto:jt.wood0@gmail.com">Jon Wood</a>
+- Community Organizer: <a href="mailto:crmccarty@bama.ua.edu">Cory McCarty</a>
 
-
-Municipal Partners
-------------------
-
-- Srikanth Karra (IMS Director/CTO)
-
-
-Community Partners
-------------------
-
-- Jennifer Skjellum (Tech Birmingham)
