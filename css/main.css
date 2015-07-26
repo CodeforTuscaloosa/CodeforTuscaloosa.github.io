@@ -48,7 +48,7 @@ img.center {
 }
 
 header {
-    background-image: url('../img/ttown-at-night.png');
+    background-image: url('../img/ttown-at-night.jpeg');
     background-position: center -200px;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -57,7 +57,8 @@ header {
 
 header img {
     padding-top: 6px;
-    max-height: 300px;
+    padding-bottom: 20px;
+    max-height: 200px;
 }
 
 body > nav {
