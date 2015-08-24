@@ -61,6 +61,7 @@
                         {% for project in sorted_projects %}
                             <li {% if page.url == project.url %}class="active"{% endif %}><a href="{{ project.url | replace: "index.html", "" }}">{{ project.title }}</a></li>
                         {% endfor %}
+                            <li><a href="http://www.codeforbirmingham.org/projects/open-disclosure/">Open Disclosure</a></li>
                     </ul>
                 </nav>
             </aside>
