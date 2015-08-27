@@ -32,6 +32,4 @@ Core Team Members
 -----------------
 
 - Captain: <a href="mailto:mwl458@gmail.com">Matthew Leeds</a>
-- Delivery Lead: <a href="mailto:jt.wood0@gmail.com">Jon Wood</a>
-- Community Organizer: <a href="mailto:crmccarty@bama.ua.edu">Cory McCarty</a>
 
