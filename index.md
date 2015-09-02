@@ -32,4 +32,10 @@ Core Team Members
 -----------------
 
 - Captain: <a href="mailto:mwl458@gmail.com">Matthew Leeds</a>
+- Community Organizer: Tarif Haque
 
+
+Municipal Partners
+------------------
+
+- Chuck Crocker (CIO, City of Tuscaloosa)
