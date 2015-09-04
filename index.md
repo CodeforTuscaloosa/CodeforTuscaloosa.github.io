@@ -39,3 +39,10 @@ Municipal Partners
 ------------------
 
 - Chuck Crocker (CIO, City of Tuscaloosa)
+
+
+Community Partners
+------------------
+
+- Joey Weed (Studio Lead, UA Design for America)
+
