@@ -37,14 +37,21 @@ img.center {
 
 .headline {
     margin-bottom: 25px;
-    border-bottom: 1px dotted #34a2d7;
+    border-bottom: 1px dotted #FFFFFF;
 }
 
 .headline h1 {
     display: inline-block;
     margin-bottom: -1px;
     text-transform: uppercase;
-    border-bottom: 5px solid #34a2d7;
+    border-bottom: 5px solid #000000;
+}
+
+.headline-footer h1 {
+    display: inline-block;
+    margin-bottom: -1px;
+    text-transform: uppercase;
+    border-bottom: 5px solid #FFFFFF;
 }
 
 header {
