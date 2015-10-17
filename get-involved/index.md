@@ -7,7 +7,7 @@ active: get-involved
 
 Hack Nights
 -----------
-We have regular meetups at the Tuscaloosa Public Library on Jack Warner Pkwy in the Rotary Room. Check our [Meetup](http://meetup.com/Code-for-Tuscaloosa) for upcoming events.
+We have regular meetups at different locations. Check our [Meetup](http://meetup.com/Code-for-Tuscaloosa) or [Facebook](https://facebook.com/CodeforTuscaloosa) for upcoming events.
 
 Our Discussions
 ---------------
