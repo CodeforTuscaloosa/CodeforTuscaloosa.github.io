@@ -45,4 +45,4 @@ Community Partners
 ------------------
 
 - Joey Weed (Studio Lead, UA Design for America)
-
+- Pamela Williamson (Tuscaloosa Public Library)
