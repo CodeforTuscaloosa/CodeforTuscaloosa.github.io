@@ -8,7 +8,7 @@ active: home
 A Code for America Brigade
 --------------------------
 
-… based in Tuscaloosa, AL. AKA, The Druid City.
+… based in Tuscaloosa, AL.
 
 
 Mission Statement
@@ -33,6 +33,7 @@ Core Team Members
 
 - Captain: <a href="mailto:mwl458@gmail.com">Matthew Leeds</a>
 - Community Organizer: Tarif Haque
+- Storyteller: Thomas Hancock
 
 
 Municipal Partners
